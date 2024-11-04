@@ -1,0 +1,15 @@
+Into:
+Each character is substiuted by a letter certain fixed number position it's later or before the alphabate.
+Example: A is replaced by two positions down D. D would become F and so on.
+
+Algorithm:
+    1. This Technique is quite simple to apply encryption
+    2. Each text is replaced by the fixed number of position down or up with the alphabate.
+    3. It is a simple type of substitute cipher.
+
+There is an integer value replaced to define each latter of the text that has been moved down. This integer value is also as the shift.
+
+Cipher(n) = De-cipher(26-n)
+
+Encription(X) = (x + n)mod 26
+Decryption(X) = (x + n)mod 26
