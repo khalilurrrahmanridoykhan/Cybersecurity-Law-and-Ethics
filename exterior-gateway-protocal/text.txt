@@ -1,0 +1,2 @@
+BGP(Border Gateway Protocal) is the protocal used to exchange routing information between different autonomus systems(Ases) on the internet.
+It is classified as a path vector protocal and is used to make core routing decisions.
