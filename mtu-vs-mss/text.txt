@@ -1,0 +1,5 @@
+
+The greatest data packet size that an internet-connected device may handle is measured in bytes as the maximum transmission unit (MTU).
+
+MTU = Maximum Transmission Unit
+MSS = Maximum Segment Size
